@@ -1,0 +1,1353 @@
+[
+  {
+    "id": "accept",
+    "old_msg": "Accept",
+    "message": "Chấp nhận",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "account",
+    "old_msg": "Account",
+    "message": "Tài khoản",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "accountDetails",
+    "old_msg": "Account Details",
+    "message": "Chi tiết tài khoản",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "accountName",
+    "old_msg": "Account Name",
+    "message": "Tên tài khoản",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "addToken",
+    "old_msg": "Add Token",
+    "message": "Thêm mã Token",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "address",
+    "old_msg": "Address",
+    "message": "Địa chỉ",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "amount",
+    "old_msg": "Amount",
+    "message": "Số lượng",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "amountPlusGas",
+    "old_msg": "Amount + Gas",
+    "message": "Số lượng + Gas",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "appDescription",
+    "old_msg": "Ethereum Browser Extension",
+    "message": "Tính năng Ethereum cho trình duyệt",
+    "old_desc": "The description of the application",
+    "description": "Mô tả phần mềm"
+  },
+  {
+    "id": "appName",
+    "old_msg": "MetaMask",
+    "message": "MetaMask",
+    "old_desc": "The name of the application",
+    "description": "Tên phần mềm"
+  },
+  {
+    "id": "attemptingConnect",
+    "old_msg": "Attempting to connect to blockchain.",
+    "message": "Đang kết nối đến blockchain.",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "available",
+    "old_msg": "Available",
+    "message": "Có sẵn",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "back",
+    "old_msg": "Back",
+    "message": "Quay lại",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "balance",
+    "old_msg": "Balance:",
+    "message": "Số dư:",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "balanceIsInsufficientGas",
+    "old_msg": "Insufficient balance for current gas total",
+    "message": "Số dư không đủ để thanh toán tổng tiền gas hiện tại",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "beta",
+    "old_msg": "BETA",
+    "message": "Bản thử nghiệm Beta",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "betweenMinAndMax",
+    "old_msg": "must be greater than or equal to $1 and less than or equal to $2.",
+    "message": "phải nhiều hơn hoặc bằng $1 và ít hơn hoặc bằng $2.",
+    "old_desc": "helper for inputting hex as decimal input",
+    "description": "trợ giúp để nhập hex dưới dạng số thập phân"
+  },
+  {
+    "id": "borrowDharma",
+    "old_msg": "Borrow With Dharma (Beta)",
+    "message": "Vay Dharma (thử nghiệm)",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "buy",
+    "old_msg": "Buy",
+    "message": "Mua",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "buyCoinbase",
+    "old_msg": "Buy on Coinbase",
+    "message": "Mua trên Coinbase",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "buyCoinbaseExplainer",
+    "old_msg": "Coinbase is the world’s most popular way to buy and sell bitcoin, ethereum, and litecoin.",
+    "message": "Coinbase là dịch vụ ví điện tử thông dụng nhất thế giới để mua bán Bitcoin, Ethereum, và Litecoin",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "cancel",
+    "old_msg": "Cancel",
+    "message": "Hủy",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "clickCopy",
+    "old_msg": "Click to Copy",
+    "message": "Nhấp vào để sao chép",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "confirm",
+    "old_msg": "Confirm",
+    "message": "Xác nhận",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "confirmContract",
+    "old_msg": "Confirm Contract",
+    "message": "Xác nhận hợp đồng",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "confirmPassword",
+    "old_msg": "Confirm Password",
+    "message": "Xác nhận mật khẩu",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "confirmTransaction",
+    "old_msg": "Confirm Transaction",
+    "message": "Xác nhận giao dịch",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "continueToCoinbase",
+    "old_msg": "Continue to Coinbase",
+    "message": "Tiếp tục đến Coinbase",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "contractDeployment",
+    "old_msg": "Contract Deployment",
+    "message": "Triển khai hợp đồng",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "conversionProgress",
+    "old_msg": "Conversion in progress",
+    "message": "Đang chuyển đổi",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "copiedButton",
+    "old_msg": "Copied",
+    "message": "Đã sao chép",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "copiedClipboard",
+    "old_msg": "Copied to Clipboard",
+    "message": "Đã sao chép vào bộ nhớ Clipboard",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "copiedExclamation",
+    "old_msg": "Copied!",
+    "message": "Đã sao chép!",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "copy",
+    "old_msg": "Copy",
+    "message": "Sao chép",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "copyButton",
+    "old_msg": "Copy",
+    "message": "Sao chép",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "copyPrivateKey",
+    "old_msg": "This is your private key (click to copy)",
+    "message": "Đây là Khoá Bí Mật của bạn (nhấp vào để sao chép)",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "copyToClipboard",
+    "old_msg": "Copy to clipboard",
+    "message": "Đã sao chép vào clipboard",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "create",
+    "old_msg": "Create",
+    "message": "Tạo",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "createAccount",
+    "old_msg": "Create Account",
+    "message": "Tạo tài khoản",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "createDen",
+    "old_msg": "Create",
+    "message": "Tạo",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "crypto",
+    "old_msg": "Crypto",
+    "message": "Tiền điện tử",
+    "old_desc": "Exchange type (cryptocurrencies)",
+    "description": "Hình thức giao dịch (tiền điện tử)"
+  },
+  {
+    "id": "customGas",
+    "old_msg": "Customize Gas",
+    "message": "Tùy chỉnh gas",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "customRPC",
+    "old_msg": "Custom RPC",
+    "message": "Tùy chỉnh RPC",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "customize",
+    "old_msg": "Customize",
+    "message": "Tùy chỉnh",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "defaultNetwork",
+    "old_msg": "The default network for Ether transactions is Main Net.",
+    "message": "Mạng lưới mặc định dùng cho các giao dịch Ether là Main Net (tiền ETH thật).",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "denExplainer",
+    "old_msg": "Your DEN is your password-encrypted storage within MetaMask.",
+    "message": "Số DEN của bạn là mật khẩu đã được mã hóa và lưu trữ trong MetaMask",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "deposit",
+    "old_msg": "Deposit",
+    "message": "Ký gửi/nạp tiền",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "depositBTC",
+    "old_msg": "Deposit your BTC to the address below:",
+    "message": "Ký gửi BTC đến địa chỉ sau:",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "depositCoin",
+    "old_msg": "Deposit your $1 to the address below",
+    "message": "Ký gửi $1 đến địa chỉ sau:",
+    "old_desc": "Tells the user what coin they have selected to deposit with shapeshift",
+    "description": "Báo cho người dùng biết đồng tiền nào họ đã chọn để ký gửi với ShapeShift"
+  },
+  {
+    "id": "depositEth",
+    "old_msg": "Deposit Eth",
+    "message": "Ký gửi Eth",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "depositEther",
+    "old_msg": "Deposit Ether",
+    "message": "Ký gửi Ether",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "depositFiat",
+    "old_msg": "Deposit with Fiat",
+    "message": "Ký gửi bằng tiền Fiat (USD, GBP, ...)",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "depositFromAccount",
+    "old_msg": "Deposit from another account",
+    "message": "Ký gửi từ một tài khoản khác",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "depositShapeShift",
+    "old_msg": "Deposit with ShapeShift",
+    "message": "Ký gửi với ShapeShift",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "depositShapeShiftExplainer",
+    "old_msg": "If you own other cryptocurrencies, you can trade and deposit Ether directly into your MetaMask wallet. No Account Needed.",
+    "message": "Nếu bạn sở hữu các đồng tiền điện tử khác, bạn có thể giao dịch và ký gửi Ether trực tiếp vào ví MetaMask của bạn. Không cần tạo thêm tài khoản.",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "details",
+    "old_msg": "Details",
+    "message": "Chi tiết",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "directDeposit",
+    "old_msg": "Direct Deposit",
+    "message": "Ký gửi trực tiếp",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "directDepositEther",
+    "old_msg": "Directly Deposit Ether",
+    "message": "Ký gửi Ether trực tiếp",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "directDepositEtherExplainer",
+    "old_msg": "If you already have some Ether, the quickest way to get Ether in your new wallet by direct deposit.",
+    "message": "Nếu bạn đã có sẵn vài Ether, cách nhanh nhất để thêm Ether vào ví tiền mới của bạn là bằng ký gửi trực tiếp.",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "done",
+    "old_msg": "Done",
+    "message": "Hoàn tất",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "edit",
+    "old_msg": "Edit",
+    "message": "Chỉnh sửa",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "editAccountName",
+    "old_msg": "Edit Account Name",
+    "message": "Chỉnh sửa tên tài khoản",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "encryptNewDen",
+    "old_msg": "Encrypt your new DEN",
+    "message": "Mã hóa số DEN mới của bạn",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "enterPassword",
+    "old_msg": "Enter password",
+    "message": "Nhập mật khẩu",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "etherscanView",
+    "old_msg": "View account on Etherscan",
+    "message": "Xem tài khoản trên Etherscan",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "exchangeRate",
+    "old_msg": "Exchange Rate",
+    "message": "Tỷ giá",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "exportPrivateKey",
+    "old_msg": "Export Private Key",
+    "message": "Xuất mã khóa cá nhân",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "exportPrivateKeyWarning",
+    "old_msg": "Export private keys at your own risk.",
+    "message": "Xuất mã khóa cá nhân theo rủi ro tự chịu",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "failed",
+    "old_msg": "Failed",
+    "message": "Không thành công",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "fiat",
+    "old_msg": "FIAT",
+    "message": "FIAT",
+    "old_desc": "Exchange type",
+    "description": "Hình thức giao dịch"
+  },
+  {
+    "id": "fileImportFail",
+    "old_msg": "File import not working? Click here!",
+    "message": "Tập tin đã nhập không hoạt động? Nhấp vào đây!",
+    "old_desc": "Helps user import their account from a JSON file",
+    "description": "Giúp người dùng nhập tài khoản từ tập tin JSON"
+  },
+  {
+    "id": "from",
+    "old_msg": "From",
+    "message": "Từ",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "fromShapeShift",
+    "old_msg": "From ShapeShift",
+    "message": "Từ ShapeShift",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "gas",
+    "old_msg": "Gas",
+    "message": "Ga",
+    "old_desc": "Short indication of gas cost",
+    "description": "Viết tắt của giá ga"
+  },
+  {
+    "id": "gasFee",
+    "old_msg": "Gas Fee",
+    "message": "Tiền ga",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "gasLimit",
+    "old_msg": "Gas Limit",
+    "message": "Hạn mức ga",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "gasLimitCalculation",
+    "old_msg": "We calculate the suggested gas limit based on network success rates.",
+    "message": "Chúng tôi tính toán và gợi ý một hạn mức ga cụ thể dựa trên tỷ lệ thành công của hệ thống.",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "gasLimitRequired",
+    "old_msg": "Gas Limit Required",
+    "message": "Hạn mức ga được yêu cầu",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "gasLimitTooLow",
+    "old_msg": "Gas limit must be at least 21000",
+    "message": "Hạn mức ga phải đạt tối thiểu 21000",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "gasPrice",
+    "old_msg": "Gas Price (GWEI)",
+    "message": "Giá ga (GWEI)",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "gasPriceCalculation",
+    "old_msg": "We calculate the suggested gas prices based on network success rates.",
+    "message": "Chúng tôi tính toán và gợi ý một giá ga cụ thể dựa trên tỷ lệ thành công của hệ thống.",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "gasPriceRequired",
+    "old_msg": "Gas Price Required",
+    "message": "Giá ga được yêu cầu",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "getEther",
+    "old_msg": "Get Ether",
+    "message": "Lấy Ether",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "getEtherFromFaucet",
+    "old_msg": "Get Ether from a faucet for the $1",
+    "message": "Lấy Ether từ vòi với giá $1",
+    "old_desc": "Displays network name for Ether faucet",
+    "description": "Hiển thị tên mạng cho vòi Ether"
+  },
+  {
+    "id": "greaterThanMin",
+    "old_msg": "must be greater than or equal to $1.",
+    "message": "phải nhiều hơn hoặc bằng $1",
+    "old_desc": "helper for inputting hex as decimal input",
+    "description": "trợ giúp để nhập hex dưới dạng số thập phân"
+  },
+  {
+    "id": "here",
+    "old_msg": "here",
+    "message": "tại đây",
+    "old_desc": "as in -click here- for more information (goes with troubleTokenBalances)",
+    "description": "như trong -Nhấp vào đây để xem thêm thông tin- (dùng với các số dư token có vấn đề)"
+  },
+  {
+    "id": "hide",
+    "old_msg": "Hide",
+    "message": "Ẩn",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "hideToken",
+    "old_msg": "Hide Token",
+    "message": "Ẩn mã token",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "hideTokenPrompt",
+    "old_msg": "Hide Token?",
+    "message": "Ẩn mã token?",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "howToDeposit",
+    "old_msg": "How would you like to deposit Ether?",
+    "message": "Bạn muốn ký gửi Ether bằng cách nào?",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "import",
+    "old_msg": "Import",
+    "message": "Nhập",
+    "old_desc": "Button to import an account from a selected file",
+    "description": "Nút để nhập tài khoản từ một tập tin đã chọn"
+  },
+  {
+    "id": "importAccount",
+    "old_msg": "Import Account",
+    "message": "Nhập tài khoản",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "importAnAccount",
+    "old_msg": "Import an account",
+    "message": "Nhập một tài khoản",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "importDen",
+    "old_msg": "Import Existing DEN",
+    "message": "Nhập mã DEN hiện hành",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "imported",
+    "old_msg": "Imported",
+    "message": "Đã nhập",
+    "old_desc": "status showing that an account has been fully loaded into the keyring",
+    "description": "Trạng thái hiển thị cho một tài khoản đã được tải toàn bộ vào chùm chìa khóa"
+  },
+  {
+    "id": "infoHelp",
+    "old_msg": "Info & Help",
+    "message": "Thông tin & Trợ giúp",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "invalidAddress",
+    "old_msg": "Invalid address",
+    "message": "Địa chỉ không hợp lệ",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "invalidGasParams",
+    "old_msg": "Invalid Gas Parameters",
+    "message": "Thông số ga không hợp lệ",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "invalidInput",
+    "old_msg": "Invalid input.",
+    "message": "Thông tin nhập vào không hợp lệ",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "invalidRequest",
+    "old_msg": "Invalid Request",
+    "message": "Yêu cầu không hợp lệ",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "jsonFile",
+    "old_msg": "JSON File",
+    "message": "Tập tin JSON",
+    "old_desc": "format for importing an account",
+    "description": "định dạng để nhập tài khoản"
+  },
+  {
+    "id": "kovan",
+    "old_msg": "Kovan Test Network",
+    "message": "Mạng thử nghiệm Kovan",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "lessThanMax",
+    "old_msg": "must be less than or equal to $1.",
+    "message": "phải ít hơn hoặc bằng $1.",
+    "old_desc": "helper for inputting hex as decimal input",
+    "description": "trợ giúp để nhập hex dưới dạng số thập phân"
+  },
+  {
+    "id": "limit",
+    "old_msg": "Limit",
+    "message": "Giới hạn",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "loading",
+    "old_msg": "Loading...",
+    "message": "Đang tải...",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "loadingTokens",
+    "old_msg": "Loading Tokens...",
+    "message": "Đang tải mã token...",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "localhost",
+    "old_msg": "Localhost 8545",
+    "message": "Localhost 8545",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "logout",
+    "old_msg": "Log out",
+    "message": "Thoát",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "loose",
+    "old_msg": "Loose",
+    "message": "Nới lỏng",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "mainnet",
+    "old_msg": "Main Ethereum Network",
+    "message": "Mạng Ethereum MainNet (tiền ETH thật)",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "message",
+    "old_msg": "Message",
+    "message": "Tin nhắn",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "min",
+    "old_msg": "Minimum",
+    "message": "Tối thiểu",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "myAccounts",
+    "old_msg": "My Accounts",
+    "message": "Tài khoản của tôi",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "needEtherInWallet",
+    "old_msg": "To interact with decentralized applications using MetaMask, you’ll need Ether in your wallet.",
+    "message": "Để tương tác với các ứng dụng phân tán bằng MetaMask, bạn sẽ phải cần có Ether trong ví của bạn.",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "needImportFile",
+    "old_msg": "You must select a file to import.",
+    "message": "Bạn phải chọn một tập tin để nhập.",
+    "old_desc": "User is important an account and needs to add a file to continue",
+    "description": "Người dùng đang nhập một tài khoản và cần thêm tập tin để tiếp tục"
+  },
+  {
+    "id": "needImportPassword",
+    "old_msg": "You must enter a password for the selected file.",
+    "message": "Bạn phải điền mật khẩu cho tập tin đã chọn.",
+    "old_desc": "Password and file needed to import an account",
+    "description": "Mật khẩu và tập tin cần thiết để nhập một tài khoản"
+  },
+  {
+    "id": "networks",
+    "old_msg": "Networks",
+    "message": "Các mạng lưới",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "newAccount",
+    "old_msg": "New Account",
+    "message": "Tài khoản mới",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "newAccountNumberName",
+    "old_msg": "Account $1",
+    "message": "Tài khoản $1",
+    "old_desc": "Default name of next account to be created on create account screen",
+    "description": "Tên mặc định của tài khoản tiếp theo để tạo trên màn hình tài khoản"
+  },
+  {
+    "id": "newContract",
+    "old_msg": "New Contract",
+    "message": "Hợp đồng mới",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "newPassword",
+    "old_msg": "New Password (min 8 chars)",
+    "message": "Mật khẩu mới (tối thiểu 8 ký tự)",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "newRecipient",
+    "old_msg": "New Recipient",
+    "message": "Người nhận mới",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "next",
+    "old_msg": "Next",
+    "message": "Kế tiếp",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "noAddressForName",
+    "old_msg": "No address has been set for this name.",
+    "message": "Không có địa chỉ nào được ấn định cho tên này.",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "noDeposits",
+    "old_msg": "No deposits received",
+    "message": "Không có tiền ký gửi nào được nhận",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "noTransactionHistory",
+    "old_msg": "No transaction history.",
+    "message": "Không có lịch sử giao dịch",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "noTransactions",
+    "old_msg": "No Transactions",
+    "message": "Không có giao dịch",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "notStarted",
+    "old_msg": "Not Started",
+    "message": "Chưa bắt đầu",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "oldUI",
+    "old_msg": "Old UI",
+    "message": "Giao diện cũ",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "oldUIMessage",
+    "old_msg": "You have returned to the old UI. You can switch back to the New UI through the option in the top right dropdown menu.",
+    "message": "Bạn vừa quay về giao diện cũ. Bạn có thể chuyển đổi sang giao diện mới bằng tùy chọn trong menu ở góc phải trên cùng.",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "or",
+    "old_msg": "or",
+    "message": "hoặc",
+    "old_desc": "choice between creating or importing a new account",
+    "description": "lựa chọn giữa tạo hay nhập một tài khoản mới"
+  },
+  {
+    "id": "passwordMismatch",
+    "old_msg": "passwords don't match",
+    "message": "mật khẩu không khớp",
+    "old_desc": "in password creation process, the two new password fields did not match",
+    "description": "trong quá trình tạo mật khẩu, hai trường mật khẩu mới không khớp"
+  },
+  {
+    "id": "passwordShort",
+    "old_msg": "password not long enough",
+    "message": "mật khẩu không đủ dài",
+    "old_desc": "in password creation process, the password is not long enough to be secure",
+    "description": "trong quá trình tạo mật khẩu, mật khẩu không đủ dài để đảm bảo an toàn"
+  },
+  {
+    "id": "pastePrivateKey",
+    "old_msg": "Paste your private key string here:",
+    "message": "Dán dãy khóa cá nhân của bạn tại đây:",
+    "old_desc": "For importing an account from a private key",
+    "description": "Dùng cho việc nhập tài khoản từ một khóa cá nhân"
+  },
+  {
+    "id": "pasteSeed",
+    "old_msg": "Paste your seed phrase here!",
+    "message": "Dán Mật Khẩu Sinh Khoá (seed phrase) của bạn tại đây!",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "pleaseReviewTransaction",
+    "old_msg": "Please review your transaction.",
+    "message": "Vui lòng xem lại giao dịch của bạn.",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "privateKey",
+    "old_msg": "Private Key",
+    "message": "Khóa Bí Mật",
+    "old_desc": "select this type of file to use to import an account",
+    "description": "chọn định dạng tập tin này để nhập một tài khoản"
+  },
+  {
+    "id": "privateKeyWarning",
+    "old_msg": "Warning: Never disclose this key. Anyone with your private keys can take steal any assets held in your account.",
+    "message": "Cảnh báo: Không bao giờ được tiết lộ khóa này. Bất kỳ ai có Khóa Bí Mật của bạn đều có thể đánh cắp tài sản được giữ trong tài khoản của bạn.",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "privateNetwork",
+    "old_msg": "Private Network",
+    "message": "Mạng lưới riêng",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "qrCode",
+    "old_msg": "Show QR Code",
+    "message": "Hiển thị mã QR",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "readMore",
+    "old_msg": "Read more here.",
+    "message": "Đọc thêm tại đây.",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "readdToken",
+    "old_msg": "You can add this token back in the future by going go to “Add token” in your accounts options menu.",
+    "message": "Bạn có thể thêm trở lại mã token này bằng cách nhấn \"Thêm mã token\" trong menu tùy chọn trong tài khoản của bạn.",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "receive",
+    "old_msg": "Receive",
+    "message": "Nhận",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "recipientAddress",
+    "old_msg": "Recipient Address",
+    "message": "Địa chỉ người nhận",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "refundAddress",
+    "old_msg": "Your Refund Address",
+    "message": "Địa chỉ hoàn trả lại của bạn",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "rejected",
+    "old_msg": "Rejected",
+    "message": "Không chấp thuận/Bị từ chối",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "required",
+    "old_msg": "Required",
+    "message": "Yêu cầu",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "retryWithMoreGas",
+    "old_msg": "Retry with a higher gas price here",
+    "message": "Thử lại với một giá ga cao hơn tại đây",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "revert",
+    "old_msg": "Revert",
+    "message": "Chuyển lại",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "rinkeby",
+    "old_msg": "Rinkeby Test Network",
+    "message": "Mạng thử nghiệm Rinkeby",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "ropsten",
+    "old_msg": "Ropsten Test Network",
+    "message": "Mạng thử nghiệm Ropsten",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "sampleAccountName",
+    "old_msg": "E.g. My new account",
+    "message": "Ví dụ, Tài khoản mới của tôi",
+    "old_desc": "Help user understand concept of adding a human-readable name to their account",
+    "description": "Giúp người dùng hiểu khái niệm thêm một cái tên có thể đọc được vào tài khoản của họ"
+  },
+  {
+    "id": "save",
+    "old_msg": "Save",
+    "message": "Lưu",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "saveAsFile",
+    "old_msg": "Save as File",
+    "message": "Lưu lại dưới dạng tập tin",
+    "old_desc": "Account export process",
+    "description": "Quá trình xuất tài khoản"
+  },
+  {
+    "id": "selectService",
+    "old_msg": "Select Service",
+    "message": "Chọn dịch vụ",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "send",
+    "old_msg": "Send",
+    "message": "Gửi",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "sendTokens",
+    "old_msg": "Send Tokens",
+    "message": "Gửi mã token",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "sendTokensAnywhere",
+    "old_msg": "Send Tokens to anyone with an Ethereum account",
+    "message": "Gửi mã token đến bất kỳ ai có tài khoản Ethereum",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "settings",
+    "old_msg": "Settings",
+    "message": "Cài đặt",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "shapeshiftBuy",
+    "old_msg": "Buy with Shapeshift",
+    "message": "Mua với ShapeShift",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "showPrivateKeys",
+    "old_msg": "Show Private Keys",
+    "message": "Hiển thị khóa cá nhân",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "showQRCode",
+    "old_msg": "Show QR Code",
+    "message": "Hiển thị mã QR",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "sigRequest",
+    "old_msg": "Signature Request",
+    "message": "Yêu cầu chữ ký",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "sigRequested",
+    "old_msg": "Signature Requested",
+    "message": "Đã yêu cầu chữ ký",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "sign",
+    "old_msg": "Sign",
+    "message": "Ký nhận",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "signMessage",
+    "old_msg": "Sign Message",
+    "message": "Ký nhận tin nhắn",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "signNotice",
+    "old_msg": "Signing this message can have \\ndangerous side effects. Only sign messages from \\nsites you fully trust with your entire account.\\n This dangerous method will be removed in a future version.",
+    "message": "Ký nhận vào tin nhắn này có thể gây nguy hiểm. Chỉ nên ký nhận tin nhắn từ những nguồn bạn hoàn toàn tin tưởng có thể dùng với tài khoản của bạn. Cách thức nguy hiểm này sẽ bị xóa trong phiên bản sắp tới.",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "status",
+    "old_msg": "Status",
+    "message": "Trạng thái",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "submit",
+    "old_msg": "Submit",
+    "message": "Gửi đi",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "takesTooLong",
+    "old_msg": "Taking too long?",
+    "message": "Chờ quá lâu?",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "testFaucet",
+    "old_msg": "Test Faucet",
+    "message": "Vòi nhận tiền ETH ảo để thử nghiệm",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "to",
+    "old_msg": "To",
+    "message": "Đến",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "toETHviaShapeShift",
+    "old_msg": "$1 to ETH via ShapeShift",
+    "message": "$1 thành ETH qua ShapeShift",
+    "old_desc": "system will fill in deposit type in start of message",
+    "description": "hệ thống sẽ điền vào loại tiền gửi khi bắt đầu tin nhắn"
+  },
+  {
+    "id": "tokenBalance",
+    "old_msg": "Your Token Balance is:",
+    "message": "Số dư token của bạn là:",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "total",
+    "old_msg": "Total",
+    "message": "Tổng cộng",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "transactionMemo",
+    "old_msg": "Transaction memo (optional)",
+    "message": "Ghi nhớ giao dịch (tùy chọn)",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "transactionNumber",
+    "old_msg": "Transaction Number",
+    "message": "Số thứ tự giao dịch",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "transfers",
+    "old_msg": "Transfers",
+    "message": "Các giao dịch",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "troubleTokenBalances",
+    "old_msg": "We had trouble loading your token balances. You can view them",
+    "message": "Chúng tôi gặp sự cố khi tải số dư token của bạn. Xin vui lòng xem lại",
+    "old_desc": "Followed by a link (here) to view token balances",
+    "description": "Kèm theo một đường link (tại đây) để xem số dư token."
+  },
+  {
+    "id": "typePassword",
+    "old_msg": "Type Your Password",
+    "message": "Điền mật khẩu của bạn",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "uiWelcome",
+    "old_msg": "Welcome to the New UI (Beta)",
+    "message": "Chào mừng bạn đến với giao diện mới (Beta)",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "uiWelcomeMessage",
+    "old_msg": "You are now using the new Metamask UI. Take a look around, try out new features like sending tokens, and let us know if you have any issues.",
+    "message": "Bạn đang sử dụng giao diện mới của Metamask. Chúng tôi khuyến khích bạn thử nghiệm và khám phá các tính năng mới như gửi token, và nếu bạn có gặp phải vấn đề gì khó khăn, xin hãy liên hệ ngay để chúng tôi có thể giúp đỡ bạn.",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "unavailable",
+    "old_msg": "Unavailable",
+    "message": "Không có sẵn",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "unknown",
+    "old_msg": "Unknown",
+    "message": "Không xác định",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "unknownNetwork",
+    "old_msg": "Unknown Private Network",
+    "message": "Mạng lưới riêng không xác định",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "unknownNetworkId",
+    "old_msg": "Unknown network ID",
+    "message": "ID không xác định",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "usaOnly",
+    "old_msg": "USA only",
+    "message": "Chỉ áp dụng cho người dùng ở Mỹ",
+    "old_desc": "Using this exchange is limited to people inside the USA",
+    "description": "Việc sử dụng hệ thống giao dịch này chỉ giới hạn cho người dùng ở Mỹ"
+  },
+  {
+    "id": "usedByClients",
+    "old_msg": "Used by a variety of different clients",
+    "message": "Được sử dụng bởi nhiều khách hàng khác nhau",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "viewAccount",
+    "old_msg": "View Account",
+    "message": "Xem tài khoản",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "warning",
+    "old_msg": "Warning",
+    "message": "Cảnh báo",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "whatsThis",
+    "old_msg": "What's this?",
+    "message": "Đây là gì?",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "youSign",
+    "old_msg": "You are signing",
+    "message": "Bạn đang ký nhận",
+    "old_desc": "",
+    "description": ""
+  },
+  {
+    "id": "yourSigRequested",
+    "old_msg": "Your signature is being requested",
+    "message": "Chữ ký của bạn đang được yêu cầu",
+    "old_desc": "",
+    "description": ""
+  }
+]
