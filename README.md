@@ -8,3 +8,8 @@
 
 * Add new translations for `https://github.com/MetaMask/metamask-extension/commits/master/app/_locales/en/messages.json`
 * Suggest a better way to coordinate changes and update translations for MetaMask
+
+## Credits
+
+* Translator: Trang Ha
+* Editor: Viet Le
